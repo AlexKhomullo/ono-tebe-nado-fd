@@ -29,13 +29,13 @@
 }
 
 .nav, .nav-ul {
-  display: flex;
-  padding: 0;
-  list-style-type: none;
+    display: flex;
+    padding: 0;
+    list-style-type: none;
 }
 
 .nav, .nav-ul, .nav-li {
-  margin-right: 13px; 
+    margin-right: 13px;
 }
 
 .addres {
@@ -144,10 +144,6 @@ span {
     padding-left: 24px;
     padding-right: 24px;
     min-height: 908px;
-}
-
-.about {
-    padding-top: 120px;
 }
 
 .paragraph {
