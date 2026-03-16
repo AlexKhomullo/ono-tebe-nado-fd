@@ -40,7 +40,7 @@
 
 .addres {
     width: 240px;
-    margin-left: 184px; 
+    margin-left: 184px;
     line-height: 24.3px;
 }
 
@@ -186,7 +186,7 @@ span {
     background-color: rgba(0, 0, 0, 0.6);
     z-index: -1;
     }
-
+    
 .card1 {
     background-image: url(../images/card-lot-01.jpg);
     }
@@ -231,10 +231,10 @@ span {
 .circle {
     margin-top: 35px;
     margin-left: 47px;
-    width: 240px;         
-    height: 240px;        
-    background-color: black; 
-    border-radius: 50%;  
+    width: 240px;
+    height: 240px;
+    background-color: black;
+    border-radius: 50%;
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -306,4 +306,4 @@ span {
 .mini-logo {
     width: 48px;
     height: 48px;
-}
+} /* бесполезный комментарий */
